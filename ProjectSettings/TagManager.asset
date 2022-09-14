@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Lava
+  - Obstacle1
+  - Obstacle2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 1733420749
+    locked: 0
+  - name: 1
+    uniqueID: 572727223
+    locked: 0
+  - name: 2
+    uniqueID: 780437723
+    locked: 0
+  - name: 3
+    uniqueID: 3476580245
+    locked: 0
+  - name: 4
+    uniqueID: 123902841
+    locked: 0
+  - name: 5
+    uniqueID: 1595007037
+    locked: 0
+  - name: 6
+    uniqueID: 1454974687
+    locked: 0
+  - name: 7
+    uniqueID: 2080996419
+    locked: 0
+  - name: 8
+    uniqueID: 3901547939
+    locked: 0
